@@ -5,11 +5,6 @@
 👨‍💻 Desenvolvedor Full-stack<br></br>
 🔗 Veja meu portfólio aqui
 
-## Veja minhas redes sociais:
-
-<a href="https://www.linkedin.com/in/roger-fernandez22/" target="_blank"><img src="https://raw.githubusercontent.com/gist/rogerfernandez23/877f716e9a0e5a9e295c04e43e982181/raw/a2e2df4cee96397536d5116c57935ec81d809294/linkedincard.svg" alt="linkedin"></a>
-<a href="https://www.instagram.com/rogerfernandez_" target="_blank"><img src="https://raw.githubusercontent.com/gist/rogerfernandez23/6862b94f7227b9d19fc4d30cfdd6c115/raw/47884127e0d2f1bb2831a2065bd5cc228dc2b4e9/instacard.svg" alt="instagram"></a>
-
 ## Tech stacks:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
