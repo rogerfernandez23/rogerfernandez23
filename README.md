@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou o Roger 🐙</h1>
+<h1>Olá, eu sou o Roger 🐙</h1>
 
-<p align="center">Apenas um jovem apaixonado por Tecnologia 🔥</p>
+<p>Apenas um jovem apaixonado por Tecnologia 🔥</p>
 
 👨‍💻 Desenvolvedor Full-stack<br></br>
 🔗 Veja meu [Portfólio aqui](https://rogeriofernandes.netlify.app/)
